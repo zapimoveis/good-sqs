@@ -1,7 +1,7 @@
 {
     "name": "good-sqs",
-    "version": "1.0.10",
-    "repository": "https://github.com/shikow/good-sqs",
+    "version": "1.0.11",
+    "repository": "https://github.com/zapimoveis/good-sqs",
     "description": "SQS broadcasting for Good process monitor",
     "main": "lib/index.js",
     "author": "Chico",
