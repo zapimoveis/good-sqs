@@ -1,0 +1,23 @@
+{
+    "name": "good-sqs",
+    "version": "1.0.10",
+    "repository": "https://github.com/shikow/good-sqs",
+    "description": "SQS broadcasting for Good process monitor",
+    "main": "lib/index.js",
+    "author": "Chico",
+    "scripts": {
+        "test": "lab -c"
+    },
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "aws-sdk": "2.118.0"
+    },
+    "devDependencies": {
+        "code": "^4.1.0",
+        "lab": "^14.2.2",
+        "aws-sdk-mock": "1.7.0"
+    }
+}
