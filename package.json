@@ -6,7 +6,7 @@
     "main": "lib/index.js",
     "author": "Chico",
     "scripts": {
-        "test": "lab -c"
+        "test": "istanbul cover ./node_modules/lab/bin/lab --report lcovonly  -- -l  && codecov"
     },
     "engines": {
         "node": ">=4.0.0"
@@ -16,8 +16,10 @@
         "aws-sdk": "2.118.0"
     },
     "devDependencies": {
+        "aws-sdk-mock": "1.7.0",
         "code": "^4.1.0",
-        "lab": "^14.2.2",
-        "aws-sdk-mock": "1.7.0"
+        "codecov": "^2.3.0",
+        "istanbul": "^0.4.5",
+        "lab": "^14.2.2"
     }
 }

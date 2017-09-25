@@ -1,3 +1,5 @@
+
+[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/zapimoveis/good-sqs.svg?maxAge=2592000)](https://codecov.io/gh/zapimoveis/good-sqs?branch=master)
 # good-sqs
 SQS broadcasting for Good process monitor
 
