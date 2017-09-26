@@ -1,6 +1,9 @@
 
-[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/zapimoveis/good-sqs.svg?maxAge=2592000)](https://codecov.io/gh/zapimoveis/good-sqs?branch=master)
+
 # good-sqs
+
+[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/zapimoveis/good-sqs.svg?maxAge=2592000)](https://codecov.io/gh/zapimoveis/good-sqs?branch=master)
+
 SQS broadcasting for Good process monitor
 
 Para instalar:
